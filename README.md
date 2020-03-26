@@ -8,3 +8,7 @@ Click on the screen or keyboard input after hit the play button.
 # Preview
 ![image](https://github.com/yuan7407/BirdFlapWing/blob/master/demogif.gif)
 
+↓New Feature for random wandering bird and color
+![image](https://github.com/yuan7407/BirdFlapWing/blob/master/BirdFlapWing.gif)
+
+

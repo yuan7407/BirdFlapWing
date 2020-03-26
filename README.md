@@ -2,7 +2,7 @@
 A simple Unity experiment for skinned mesh renderer pass to Visual Effect Graph.
 # Requirements
 1. Unity 2019.1 or higher
-2. Packages: HDRP, Viual Effect Graph
+2. Packages: URP or LWRP, Viual Effect Graph
 # Usage
 Click on the screen or keyboard input after hit the play button.
 # Preview
